@@ -1,3 +1,4 @@
+
 body{
   background-color: grey;
 }
@@ -5,4 +6,15 @@ body{
 p{
   background-color:aliceblue;
   padding:30px;
+}
+section{
+  background-color: black;
+  color: white;
+  padding: 2em;
+}
+hr{
+  border-top: 20px solid;
+}
+h1{
+  text-align: center;
 }
