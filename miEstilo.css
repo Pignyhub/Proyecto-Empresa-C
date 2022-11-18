@@ -1,3 +1,11 @@
-body{
-  background-color: red;
+section{
+  background-color: black;
+  color: white;
+  padding: 2em;
+}
+hr{
+  border-top: 20px solid;
+}
+h1{
+  text-align: center;
 }
